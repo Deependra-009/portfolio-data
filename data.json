@@ -1,5 +1,5 @@
 {
-  "totalExperience": "3.6",
+  "totalExperience": "3.5",
   "resume_link": "https://drive.google.com/file/d/1LTTjYarziu89CaJwZQlEgmK3HJhP5xzP/view?usp=sharing",
   "name": "Deependra Trivedi",
   "home_intro": "I am a Full Stack Developer with a passion for building robust and scalable web applications and excellent problem-solving skills and ability to perform well in a team.",
@@ -119,7 +119,7 @@
       "status": "COMPLETE",
       "data": {
         "content": "This project is an online restaurant platform, inspired by popular food delivery services like Swiggy and Zomato. It aims to provide a seamless and user-friendly experience for customers to order food from their favorite restaurants. The platform offers a wide range of restaurants and cuisines, with features that enhance the ease and efficiency of food ordering.",
-        "technology_used": ["Java", "SpringBoot", "Angular", "SQL", "Microservices", "OAuth", "CSS"],
+        "technology_used": ["Java", "SpringBoot", "Angular", "SQL", "Microservices", "CSS"],
         "features": [
           "User Registration & Authentication: Account creation, login, personalized recommendations, and Google OAuth.",
           "Restaurant Browsing & Filtering: Browse various restaurants, filter by cuisine, ratings, delivery time, and more.",
