@@ -1,0 +1,179 @@
+{
+  "totalExperience": "3.5",
+  "resume_link": "https://drive.google.com/file/d/1LTTjYarziu89CaJwZQlEgmK3HJhP5xzP/view?usp=sharing",
+  "name": "Deependra Trivedi",
+  "home_intro": "I am a Full Stack Developer with a passion for building robust and scalable web applications and excellent problem-solving skills and ability to perform well in a team.",
+  "aboutMe": {
+    "intro_1": "I am a Full Stack Developer with a passion for building robust and scalable web applications",
+    "intro_2": "and excellent problem-solving skills and ability to perform well in a team.",
+    "intro_3": "I am a dedicated and passionate Full Stack Developer committed to delivering exceptional software solutions.",
+    "intro_4": "I am constantly striving to expand my knowledge and stay up-to-date with emerging technologies. I look forward to contributing my skills and expertise to new and exciting projects in the future."
+  },
+  "codingHandles": [
+    {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/Deependra_coder/"
+    },
+    {
+      "name": "GeeksForGeeks",
+      "url": "https://auth.geeksforgeeks.org/user/deependra04trivedi/practice/"
+    },
+    {
+      "name": "CodeChef",
+      "url": "https://www.codechef.com/users/deependra_04"
+    },
+    {
+      "name": "Codeforces",
+      "url": "https://codeforces.com/profile/Deependra_coder"
+    },
+    {
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/deependra04triv1?hr_r=1"
+    }
+  ],
+  "nabarItems": [
+    {
+      "name": "Home",
+      "projectID": "#home"
+    },
+    {
+      "name": "About Me",
+      "projectID": "#aboutme"
+    },
+    {
+      "name": "Projects",
+      "projectID": "#project"
+    },
+    {
+      "name": "Skills",
+      "projectID": "#skills"
+    },
+    {
+      "name": "Contact Us",
+      "projectID": "#contactus"
+    }
+  ],
+  "contactLogo": [
+    {
+      "name": "MAIL",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=deependra04trivedi@gmail.com"
+    },
+    {
+      "name": "INSTAGRAM",
+      "url": "https://www.instagram.com/deependra04trivedi/"
+    },
+    {
+      "name": "LINKEDIN",
+      "url": "https://www.linkedin.com/in/deependra-trivedi-bb530a1a5/"
+    },
+    {
+      "name": "GITHUB",
+      "url": "https://github.com/Deependra-009"
+    }
+  ],
+  "ProjectData": [
+    {
+      "name": "UrbanIndie",
+      "image": "project_1.png",
+      "type": "Full Stack Project",
+      "status": "COMPLETE",
+      "data": {
+        "content": "This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It aims to provide a user-friendly and interactive platform for customers to browse and purchase clothes online. The website offers a wide range of clothing items, including apparel for men, women, and kids, along with various accessories.",
+        "technology_used": ["Java", "Springboot", "Angular", "Tailwind", "MongoDB", "Microservices", "Google One-tap-Sign"],
+        "features": [
+          "User Registration & Authentication: Account creation, login, personalized features, and Google OAuth.",
+          "Browsing & Filtering: Diverse collection, with filters for category, size, color, brand, etc.",
+          "Product Details: Comprehensive information with images, descriptions, prices, and sizes.",
+          "Shopping Cart: Add, review, and modify items before checkout.",
+          "Checkout & Payment: Secure, smooth checkout with various payment options."
+        ],
+        "tools_used": ["Intellij", "VsCode", "Postman", "MongoDB compass"],
+        "github_url": "https://github.com/Deependra-009/UrbanIndie",
+        "video_url": "https://mega.nz/file/9Px3UJ6a#2QZG4IdrGOw_MIU3ug_Msi5RmoWmIr2HDZyRapdBWUU"
+      }
+    },
+    {
+      "name": "Elite Bank",
+      "image": "project_2.png",
+      "type": "Full Stack Project",
+      "status": "COMPLETE",
+      "data": {
+        "content": "Elite Bank - Internet Banking is a cutting-edge Full Stack project that redefines the landscape of digital banking. Inspired by the evolving needs of modern users, this platform seamlessly integrates Java, Spring Boot, PostgreSQL, Angular, Tailwind CSS, and NgRx to create a robust and feature-rich Internet Banking experience.",
+        "technology_used": ["Java", "Springboot", "Angular", "Tailwind", "PostgresSQL", "Microservices"],
+        "features": [
+          "Account Management: Seamlessly manage your accounts with a user-friendly interface.",
+          "Transactions: Conduct secure and swift transactions, keeping your financial activities in check.",
+          "Security First: Robust security measures ensure the safety of your transactions and personal information.",
+          "Dashboard Analytics: Get a real-time overview of your financial health with intuitive dashboard analytics.",
+          "Transaction History: Access detailed transaction history to track and analyze your spending patterns."
+        ],
+        "tools_used": ["Intellij", "VsCode", "Postman", "PgAdmin"],
+        "github_url": "https://github.com/Deependra-009/Elite_Bank-Internet_Banking",
+        "video_url": "https://drive.google.com/file/d/1m2cd3KjqHyuQdYBfxN4DLxm7oRtlbqYR/view?usp=sharing"
+      }
+    },
+    {
+      "name": "FoodForYou",
+      "image": "project_3.png",
+      "type": "Full Stack Project",
+      "status": "COMPLETE",
+      "data": {
+        "content": "This project is an online restaurant platform, inspired by popular food delivery services like Swiggy and Zomato. It aims to provide a seamless and user-friendly experience for customers to order food from their favorite restaurants. The platform offers a wide range of restaurants and cuisines, with features that enhance the ease and efficiency of food ordering.",
+        "technology_used": ["Java", "SpringBoot", "Angular", "SQL", "Microservices", "OAuth", "CSS"],
+        "features": [
+          "User Registration & Authentication: Account creation, login, personalized recommendations, and Google OAuth.",
+          "Restaurant Browsing & Filtering: Browse various restaurants, filter by cuisine, ratings, delivery time, and more.",
+          "Food Ordering: Detailed menus with descriptions, prices, and customization options.",
+          "Cart & Checkout: Add items to the cart, review orders, and proceed with secure payment options.",
+          "Order Tracking: Real-time order status updates, from preparation to delivery.",
+          "Reviews & Ratings: Leave feedback on restaurants and dishes."
+        ],
+        "tools_used": ["IntelliJ", "VSCode", "Postman", "MySql Workbench"],
+        "github_url": "https://github.com/Deependra-009/FoodForYou",
+        "video_url": ""
+      }
+    },
+    {
+      "name": "QuickChat",
+      "image": "project_5.jpg",
+      "type": "Full Stack Project",
+      "status": "COMPLETE",
+      "data": {
+        "content": "This project is a real-time messaging application inspired by popular platforms like WhatsApp. It aims to provide users with a seamless and secure way to communicate through text messages, voice, and video calls. The application also supports multimedia sharing, group chats, and end-to-end encryption to ensure privacy and security.",
+        "technology_used": ["Java", "SpringBoot", "Angular", "WebSocket", "PostgresSql", "Microservices", "Firebase", "OAuth"],
+        "features": [
+          "User Registration & Authentication: Account creation, login, and Google OAuth integration.",
+          "Real-Time Messaging: Instant messaging with real-time updates using WebSocket.",
+          "Multimedia Sharing: Share images, videos, voice notes, and documents.",
+          "Group Chats: Create and manage group chats with multiple participants.",
+          "End-to-End Encryption: Secure communication with end-to-end encryption for all messages and calls."
+        ],
+        "tools_used": ["IntelliJ", "VSCode", "Postman", "PgAdmin", "Firebase Console"],
+        "github_url": "https://github.com/Deependra-009/Quick-Chat",
+        "video_url": ""
+      }
+    },
+    {
+      "name": "FlightBookKaro",
+      "image": "project_4.png",
+      "type": "Full Stack Project",
+      "status": "COMPLETE",
+      "data": {
+        "content": "This project is a flight booking management system designed to provide users with a seamless experience when searching for, booking, and managing flight reservations. The system is built to handle real-time flight availability, secure bookings, and customer management. It includes features for searching flights, booking tickets, managing bookings, and handling customer queries.",
+        "technology_used": ["Java", "SpringBoot", "Angular", "MySQL", "Microservices", "REST API", "OAuth"],
+        "features": [
+          "User Registration & Authentication: Secure account creation, login, and Google OAuth integration.",
+          "Flight Search & Filtering: Search for flights by destination, date, airline, and more, with filtering options.",
+          "Booking & Payment: Book flights with real-time availability checks and secure payment options.",
+          "Manage Bookings: View, modify, or cancel bookings, with options for seat selection and meal preferences.",
+          "Customer Support: Integrated support for handling queries and issues related to bookings.",
+          "Notifications: Email and SMS notifications for booking confirmations, cancellations, and reminders.",
+          "Admin Panel: Manage flights, airlines, and monitor system performance through an admin dashboard."
+        ],
+        "tools_used": ["IntelliJ", "VSCode", "Postman", "MySQL Workbench"],
+        "github_url": "https://github.com/Deependra-009/EasyFlightBooking",
+        "video_url": ""
+      }
+    }
+  ]
+}
