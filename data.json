@@ -120,7 +120,7 @@
           "Checkout & Payment: Secure, smooth checkout with various payment options."
         ],
         "tools_used": ["Intellij", "VsCode", "Postman", "MongoDB compass"],
-        "github_url": "https://github.com/Deependra-009/UrbanIndie",
+        "github_url": "https://github.com/Deependra-009/Full_Stack_Projects/tree/main/Project_4_UrbanIndie",
         "video_url": "https://mega.nz/file/9Px3UJ6a#2QZG4IdrGOw_MIU3ug_Msi5RmoWmIr2HDZyRapdBWUU"
       }
     },
@@ -140,7 +140,7 @@
           "Transaction History: Access detailed transaction history to track and analyze your spending patterns."
         ],
         "tools_used": ["Intellij", "VsCode", "Postman", "PgAdmin"],
-        "github_url": "https://github.com/Deependra-009/Elite-Bank",
+        "github_url": "https://github.com/Deependra-009/Full_Stack_Projects/tree/main/Project_3_Elite-Bank",
         "video_url": "https://drive.google.com/file/d/1m2cd3KjqHyuQdYBfxN4DLxm7oRtlbqYR/view?usp=sharing"
       }
     },
@@ -161,7 +161,7 @@
           "Reviews & Ratings: Leave feedback on restaurants and dishes."
         ],
         "tools_used": ["IntelliJ", "VSCode", "Postman", "MySql Workbench"],
-        "github_url": "https://github.com/Deependra-009/FoodForYou",
+        "github_url": "https://github.com/Deependra-009/Full_Stack_Projects/tree/main/Project_5_Food-For-You-main",
         "video_url": ""
       }
     },
@@ -181,7 +181,7 @@
           "End-to-End Encryption: Secure communication with end-to-end encryption for all messages and calls."
         ],
         "tools_used": ["IntelliJ", "VSCode", "Postman", "PgAdmin", "Firebase Console"],
-        "github_url": "https://github.com/Deependra-009/Quick-Chat",
+        "github_url": "https://github.com/Deependra-009/Full_Stack_Projects/tree/main/Project_2_QuickChat",
         "video_url": ""
       }
     },
