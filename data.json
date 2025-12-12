@@ -9,6 +9,38 @@
     "intro_3": "I am a dedicated and passionate Full Stack Developer committed to delivering exceptional software solutions.",
     "intro_4": "I am constantly striving to expand my knowledge and stay up-to-date with emerging technologies. I look forward to contributing my skills and expertise to new and exciting projects in the future."
   },
+  "education":[
+    {
+      "name":"SRMCEM",
+      "stream":"B.Tech - IT",
+      "timeline":"2018-22",
+      "percentage":"83.4%"
+    },
+    {
+      "name":"New Public Inter College",
+      "stream":"Class XII - CBSE",
+      "timeline":"2017-18",
+      "percentage":"84%"
+    },
+    {
+      "name":"New Public Inter College",
+      "stream":"Class X - CBSE",
+      "timeline":"2015-16",
+      "percentage":"82%"
+    }
+  ],
+  "experience":[
+    {
+      "company_name":"Optum (UHG)",
+      "designation":"Senior Software Engineer",
+      "timeline":"Oct 2025 - PRESENT"
+    },
+    {
+      "company_name":"Cognizant",
+      "designation":"Software Engineer",
+      "timeline":"Aug 2022 - Oct 2025"
+    }
+  ],
   "codingHandles": [
     {
       "name": "LeetCode",
