@@ -1,46 +1,73 @@
 {
-  "totalExperience": "4.2",
-  "resume_link": "https://drive.google.com/file/d/1LTTjYarziu89CaJwZQlEgmK3HJhP5xzP/view?usp=sharing",
+  "totalExperience": "4.5",
+  "resume_link": "https://drive.google.com/file/d/1_UQ6eHTQ3EwCLXB5eWJt02YQhO4NCEmn/view?usp=sharing",
   "name": "Deependra Trivedi",
-  "home_intro": "I am a Full Stack Developer with a passion for building robust and scalable web applications and excellent problem-solving skills and ability to perform well in a team.",
+  "home_intro": "I am a Senior Software Engineer with 4+ years of experience building high-performance, scalable full-stack systems across banking, insurance, e-commerce, and healthcare domains.",
   "aboutMe": {
-    "intro_1": "I am a Full Stack Developer with a passion for building robust and scalable web applications",
-    "intro_2": "and excellent problem-solving skills and ability to perform well in a team.",
-    "intro_3": "I am a dedicated and passionate Full Stack Developer committed to delivering exceptional software solutions.",
+    "intro_1": "I am a Results-driven Senior Software Engineer with 4+ years of experience building high-performance, scalable full-stack systems.",
+    "intro_2": "Expert in Java/Spring Boot microservices, React/Next.js frontends, and AWS/Kubernetes cloud deployments.",
+    "intro_3": "AWS Certified Cloud Practitioner with hands-on expertise in GenAI/LLM integration and CI/CD automation.",
     "intro_4": "I am constantly striving to expand my knowledge and stay up-to-date with emerging technologies. I look forward to contributing my skills and expertise to new and exciting projects in the future."
   },
-  "education":[
+  "education": [
     {
-      "name":"SRMCEM",
-      "stream":"B.Tech - IT",
-      "timeline":"2018-22",
-      "percentage":"83.4%"
+      "name": "SRMCEM",
+      "stream": "B.Tech - IT",
+      "timeline": "2018-22",
+      "percentage": "83.4%",
+      "cgpa": "8.34 / 10.0"
     },
     {
-      "name":"New Public Inter College",
-      "stream":"Class XII - CBSE",
-      "timeline":"2017-18",
-      "percentage":"84%"
+      "name": "New Public Inter College",
+      "stream": "Class XII - CBSE",
+      "timeline": "2017-18",
+      "percentage": "84%"
     },
     {
-      "name":"New Public Inter College",
-      "stream":"Class X - CBSE",
-      "timeline":"2015-16",
-      "percentage":"82%"
+      "name": "New Public Inter College",
+      "stream": "Class X - CBSE",
+      "timeline": "2015-16",
+      "percentage": "82%"
     }
   ],
-  "experience":[
+  "experience": [
     {
-      "company_name":"Optum (UHG)",
-      "designation":"Senior Software Engineer",
-      "timeline":"Oct 2025 - PRESENT"
+      "company_name": "Optum (UHG)",
+      "designation": "Senior Software Engineer",
+      "timeline": "Oct 2025 – Present"
     },
     {
-      "company_name":"Cognizant",
-      "designation":"Software Engineer",
-      "timeline":"Aug 2022 - Oct 2025"
+      "company_name": "Cognizant",
+      "designation": "Software Engineer",
+      "timeline": "Aug 2022 – Sep 2025"
+    },
+    {
+      "company_name": "Cognizant",
+      "designation": "Software Engineer Intern",
+      "timeline": "Feb 2022 – Jul 2022"
     }
   ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "description": "Covers EC2, ECR, EKS, CodeArtifact, RDS, S3, Lambda, IAM, CloudFront"
+    }
+  ],
+  "achievements": [
+    "Received Best Performance Award at Cognizant for outstanding project contributions (2023).",
+    "Solved 700+ problems on LeetCode and GeeksforGeeks; ranked 3,469 / 17,137 in LeetCode Biweekly Contest.",
+    "Secured 3rd Rank in college-level CodeKaze Challenge (Global Rank: 4,980) and 19th Rank in CodeChef Challenge.",
+    "Achieved 114th Rank in CodeChef December Challenge."
+  ],
+  "skills": {
+    "languages": ["Java", "JavaScript", "TypeScript", "Python", "Groovy", "SQL"],
+    "frontend": ["React.js", "Next.js", "Angular", "Redux Toolkit", "MUI Material", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Spring Boot", "Spring Security", "Microservices", "Hibernate", "Spring Data JPA", "Node.js", "REST", "GraphQL"],
+    "testing": ["JUnit", "Mockito", "Cypress", "JMeter", "Gatling", "Integration Testing"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
+    "cloudDevOps": ["AWS (EC2, EKS, ECR, RDS, S3, Lambda, IAM, CloudFront, CloudWatch)", "Azure", "Docker", "Kubernetes", "Jenkins", "CI/CD", "GitHub Actions"],
+    "aiAndTools": ["GenAI", "LLM", "Vector Databases", "Kafka", "Logstash", "Kibana", "Figma", "Postman", "Maven", "Gradle", "Git"]
+  },
   "codingHandles": [
     {
       "name": "LeetCode",
@@ -110,8 +137,8 @@
       "type": "Full Stack Project",
       "status": "COMPLETE",
       "data": {
-        "content": "This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It aims to provide a user-friendly and interactive platform for customers to browse and purchase clothes online. The website offers a wide range of clothing items, including apparel for men, women, and kids, along with various accessories.",
-        "technology_used": ["Java", "Springboot", "Angular", "Tailwind", "MongoDB", "Microservices", "Google One-tap-Sign"],
+        "content": "This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It achieved a 70% increase in user engagement. It provides a user-friendly and interactive platform for customers to browse and purchase clothes online, with a wide range of clothing items for men, women, and kids.",
+        "technology_used": ["Java", "Springboot", "Angular", "Tailwind", "MongoDB", "PostgreSQL", "Microservices", "Google One-tap-Sign", "API Gateway", "Eureka Server", "Feign Client"],
         "features": [
           "User Registration & Authentication: Account creation, login, personalized features, and Google OAuth.",
           "Browsing & Filtering: Diverse collection, with filters for category, size, color, brand, etc.",
@@ -130,7 +157,7 @@
       "type": "Full Stack Project",
       "status": "COMPLETE",
       "data": {
-        "content": "Elite Bank - Internet Banking is a cutting-edge Full Stack project that redefines the landscape of digital banking. Inspired by the evolving needs of modern users, this platform seamlessly integrates Java, Spring Boot, PostgreSQL, Angular, Tailwind CSS, and NgRx to create a robust and feature-rich Internet Banking experience.",
+        "content": "Elite Bank - Internet Banking is a cutting-edge Full Stack project with secure account management, transaction processing, and role-based access control. It redefines the landscape of digital banking by integrating Java, Spring Boot, PostgreSQL, Angular, Tailwind CSS, and NgRx.",
         "technology_used": ["Java", "Springboot", "Angular", "Tailwind", "PostgresSQL", "Microservices"],
         "features": [
           "Account Management: Seamlessly manage your accounts with a user-friendly interface.",
@@ -150,7 +177,7 @@
       "type": "Full Stack Project",
       "status": "COMPLETE",
       "data": {
-        "content": "This project is an online restaurant platform, inspired by popular food delivery services like Swiggy and Zomato. It aims to provide a seamless and user-friendly experience for customers to order food from their favorite restaurants. The platform offers a wide range of restaurants and cuisines, with features that enhance the ease and efficiency of food ordering.",
+        "content": "This project is an online restaurant platform, inspired by popular food delivery services like Swiggy and Zomato. It provides a seamless and user-friendly experience for customers to order food from their favorite restaurants with a wide range of cuisines.",
         "technology_used": ["Java", "SpringBoot", "Angular", "SQL", "Microservices", "CSS"],
         "features": [
           "User Registration & Authentication: Account creation, login, personalized recommendations, and Google OAuth.",
@@ -171,7 +198,7 @@
       "type": "Full Stack Project",
       "status": "COMPLETE",
       "data": {
-        "content": "This project is a real-time messaging application inspired by popular platforms like WhatsApp. It aims to provide users with a seamless and secure way to communicate through text messages, voice, and video calls. The application also supports multimedia sharing, group chats, and end-to-end encryption to ensure privacy and security.",
+        "content": "This project is a real-time messaging application inspired by WhatsApp. It provides users with a seamless and secure way to communicate through text messages, voice, and video calls, with multimedia sharing, group chats, and end-to-end encryption.",
         "technology_used": ["Java", "SpringBoot", "Angular", "WebSocket", "PostgresSql", "Microservices", "Firebase", "OAuth"],
         "features": [
           "User Registration & Authentication: Account creation, login, and Google OAuth integration.",
@@ -191,7 +218,7 @@
       "type": "Full Stack Project",
       "status": "COMPLETE",
       "data": {
-        "content": "This project is a flight booking management system designed to provide users with a seamless experience when searching for, booking, and managing flight reservations. The system is built to handle real-time flight availability, secure bookings, and customer management. It includes features for searching flights, booking tickets, managing bookings, and handling customer queries.",
+        "content": "This project is a flight booking management system designed to provide users with a seamless experience when searching for, booking, and managing flight reservations with real-time availability and secure payments.",
         "technology_used": ["Java", "SpringBoot", "Angular", "MySQL", "Microservices", "REST API", "OAuth"],
         "features": [
           "User Registration & Authentication: Secure account creation, login, and Google OAuth integration.",
